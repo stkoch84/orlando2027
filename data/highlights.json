@@ -6,9 +6,9 @@
       "name": "Disney",
       "ticket": "14 Day Magic Ticket mit Park Hopper und Memory Maker",
       "ticketpreis": {
-        "betrag": null,
+        "betrag": 3640,
         "waehrung": "EUR",
-        "stand": null
+        "stand": "14.10.2026"
       },
       "parks": [
         {
@@ -454,9 +454,9 @@
       "name": "Universal",
       "ticket": "Universal Orlando All Parks Ticket (14 Tage, Park-to-Park)",
       "ticketpreis": {
-        "betrag": null,
+        "betrag": 2490,
         "waehrung": "EUR",
-        "stand": null
+        "stand": "14.10.2026"
       },
       "parks": [
         {
