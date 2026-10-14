@@ -1,0 +1,777 @@
+{
+  "stand": "2026-10-14",
+  "optionen": [
+    {
+      "id": "disney",
+      "name": "Disney",
+      "ticket": "14 Day Magic Ticket mit Park Hopper und Memory Maker",
+      "ticketpreis": {
+        "betrag": null,
+        "waehrung": "EUR",
+        "stand": null
+      },
+      "parks": [
+        {
+          "id": "magic-kingdom",
+          "name": "Magic Kingdom",
+          "art": "Themenpark",
+          "infoUrl": "https://disneyworld.disney.go.com/destinations/magic-kingdom/",
+          "highlights": [
+            {
+              "id": "tron",
+              "name": "TRON Lightcycle / Run",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Sehr schnelle Achterbahn, auf der man wie auf einem Motorrad liegt, mit Katapultstart; abends besonders spektakulär.",
+              "mindestgroesseCm": 122,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/magic-kingdom/tron-lightcycle-run/"
+            },
+            {
+              "id": "seven-dwarfs",
+              "name": "Seven Dwarfs Mine Train",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Familienachterbahn durch die Mine der sieben Zwerge, mit schwingenden Wagen.",
+              "mindestgroesseCm": 97,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/magic-kingdom/seven-dwarfs-mine-train/"
+            },
+            {
+              "id": "space-mountain",
+              "name": "Space Mountain",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Achterbahn im Dunkeln durchs Weltall, ruckelig und überraschend flott.",
+              "mindestgroesseCm": 112,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/magic-kingdom/space-mountain/"
+            },
+            {
+              "id": "big-thunder",
+              "name": "Big Thunder Mountain Railroad",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Wilde Grubenbahn-Achterbahn durch eine Wildwest-Felslandschaft.",
+              "mindestgroesseCm": 102,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/magic-kingdom/big-thunder-mountain-railroad/"
+            },
+            {
+              "id": "tiana",
+              "name": "Tiana's Bayou Adventure",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Baumstammbahn durch die Sümpfe Louisianas mit großer Abfahrt am Ende; man wird nass.",
+              "mindestgroesseCm": 102,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/magic-kingdom/tianas-bayou-adventure/"
+            },
+            {
+              "id": "pirates",
+              "name": "Pirates of the Caribbean",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Gemütliche Bootsfahrt durch Piratenszenen mit Jack Sparrow, kleine Abfahrt im Dunkeln.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/magic-kingdom/pirates-of-the-caribbean/"
+            },
+            {
+              "id": "haunted-mansion",
+              "name": "Haunted Mansion",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Fahrt durch ein Spukhaus mit 999 Geistern, eher witzig als gruselig.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/magic-kingdom/haunted-mansion/"
+            },
+            {
+              "id": "peter-pan",
+              "name": "Peter Pan's Flight",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Im fliegenden Piratenschiff über das nächtliche London nach Nimmerland, ruhig und klassisch.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/magic-kingdom/peter-pan-flight/"
+            },
+            {
+              "id": "jungle-cruise",
+              "name": "Jungle Cruise",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Bootsfahrt durch den Dschungel mit einem Kapitän, der einen Kalauer nach dem anderen erzählt (auf Englisch).",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/magic-kingdom/jungle-cruise/"
+            },
+            {
+              "id": "happily-ever-after",
+              "name": "Happily Ever After",
+              "typ": "Abendshow",
+              "beschreibung": "Großes Feuerwerk mit Projektionen auf das Cinderella-Schloss zum Parkschluss.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/entertainment/magic-kingdom/happily-ever-after-fireworks/"
+            }
+          ]
+        },
+        {
+          "id": "epcot",
+          "name": "EPCOT",
+          "art": "Themenpark",
+          "infoUrl": "https://disneyworld.disney.go.com/destinations/epcot/",
+          "highlights": [
+            {
+              "id": "cosmic-rewind",
+              "name": "Guardians of the Galaxy: Cosmic Rewind",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Achterbahn im Dunkeln, bei der sich die Wagen drehen, mit Rückwärtsstart und 80er-Jahre-Hits.",
+              "mindestgroesseCm": 107,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/epcot/guardians-of-the-galaxy-cosmic-rewind/"
+            },
+            {
+              "id": "test-track",
+              "name": "Test Track",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Selbst ein Auto entwerfen und es dann auf einer Hochgeschwindigkeitsstrecke mit fast 100 km/h testen.",
+              "mindestgroesseCm": 102,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/epcot/test-track/"
+            },
+            {
+              "id": "frozen",
+              "name": "Frozen Ever After",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Bootsfahrt durch Arendelle mit Elsa, Anna und Olaf, kleine Rückwärts- und Abwärtsfahrt.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/epcot/frozen-ever-after/"
+            },
+            {
+              "id": "remy",
+              "name": "Remy's Ratatouille Adventure",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "3D-Fahrt auf Rattengröße geschrumpft durch Gusteaus Pariser Restaurantküche.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/epcot/remys-ratatouille-adventure/"
+            },
+            {
+              "id": "soarin",
+              "name": "Soarin'",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Simulierter Gleitschirmflug vor einer riesigen Kuppelleinwand über Sehenswürdigkeiten der Welt, mit Wind und Düften.",
+              "mindestgroesseCm": 102,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/epcot/soarin/"
+            },
+            {
+              "id": "mission-space",
+              "name": "Mission: SPACE",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Raketenstart-Simulator in der Zentrifuge; die orange Mission drückt richtig, die grüne ist sanft.",
+              "mindestgroesseCm": 102,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/epcot/mission-space/"
+            },
+            {
+              "id": "spaceship-earth",
+              "name": "Spaceship Earth",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Ruhige Fahrt durch die riesige Silberkugel, erzählt die Geschichte der menschlichen Kommunikation.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/epcot/spaceship-earth/"
+            },
+            {
+              "id": "journey-of-water",
+              "name": "Journey of Water, Inspired by Moana",
+              "typ": "Themenbereich",
+              "beschreibung": "Spaziergang durch einen Wasserpfad, auf dem das Wasser springt, ausweicht und spritzt.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/epcot/journey-of-water/"
+            },
+            {
+              "id": "world-showcase",
+              "name": "World Showcase",
+              "typ": "Themenbereich",
+              "beschreibung": "Rundweg um den See durch 11 nachgebaute Länder (u. a. Deutschland, Japan, Mexiko, Frankreich) mit Essen aus aller Welt.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/destinations/epcot/"
+            },
+            {
+              "id": "luminous",
+              "name": "Luminous: The Symphony of Us",
+              "typ": "Abendshow",
+              "beschreibung": "Feuerwerk mit Wasser- und Lichteffekten über dem See zum Parkschluss.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/entertainment/epcot/luminous-the-symphony-us/",
+              "hinweis": "Gerüchte über eine Ablösung; bis 2027 läuft eventuell eine andere Abendshow."
+            }
+          ]
+        },
+        {
+          "id": "hollywood-studios",
+          "name": "Hollywood Studios",
+          "art": "Themenpark",
+          "infoUrl": "https://disneyworld.disney.go.com/destinations/hollywood-studios/",
+          "highlights": [
+            {
+              "id": "rise",
+              "name": "Star Wars: Rise of the Resistance",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Fast 20 Minuten Star-Wars-Abenteuer: Gefangennahme durch die Erste Ordnung und Flucht durch einen Sternzerstörer.",
+              "mindestgroesseCm": 102,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/hollywood-studios/star-wars-rise-of-the-resistance/"
+            },
+            {
+              "id": "smugglers-run",
+              "name": "Millennium Falcon: Smugglers Run",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Selbst den Millennium Falcon steuern: Pilot, Schütze oder Ingenieur in einem interaktiven Simulator.",
+              "mindestgroesseCm": 97,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/hollywood-studios/millennium-falcon-smugglers-run/"
+            },
+            {
+              "id": "galaxys-edge",
+              "name": "Star Wars: Galaxy's Edge",
+              "typ": "Themenbereich",
+              "beschreibung": "Der Planet Batuu zum Durchlaufen: Lichtschwert bauen, Droiden, Blaue Milch und Sturmtruppen auf Patrouille.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/destinations/hollywood-studios/star-wars-galaxys-edge/"
+            },
+            {
+              "id": "slinky-dog",
+              "name": "Slinky Dog Dash",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Familienachterbahn mit zwei Starts durch Andys Hinterhof aus Toy Story.",
+              "mindestgroesseCm": 97,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/hollywood-studios/slinky-dog-dash/"
+            },
+            {
+              "id": "tower-of-terror",
+              "name": "The Twilight Zone Tower of Terror",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Fahrstuhl in einem Spukhotel, der mehrfach unvorhersehbar in die Tiefe stürzt.",
+              "mindestgroesseCm": 102,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/hollywood-studios/twilight-zone-tower-of-terror/"
+            },
+            {
+              "id": "rock-n-roller",
+              "name": "Rock 'n' Roller Coaster Starring The Muppets",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Achterbahn im Dunkeln mit Katapultstart von 0 auf 100 und Loopings, neu mit den Muppets.",
+              "mindestgroesseCm": 122,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/hollywood-studios/rock-and-roller-coaster-starring-muppets/"
+            },
+            {
+              "id": "runaway-railway",
+              "name": "Mickey & Minnie's Runaway Railway",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Fahrt mitten in einen Mickey-Zeichentrickfilm hinein, mit vielen verrückten Effekten.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/hollywood-studios/mickey-minnies-runaway-railway/"
+            },
+            {
+              "id": "toy-story-mania",
+              "name": "Toy Story Mania!",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "3D-Schießbude auf Rädern: Wer trifft die meisten Ziele?",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/hollywood-studios/toy-story-mania/"
+            },
+            {
+              "id": "star-tours",
+              "name": "Star Tours – The Adventures Continue",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Flugsimulator durch Star-Wars-Welten, bei jeder Fahrt eine andere Route.",
+              "mindestgroesseCm": 102,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/hollywood-studios/star-tours/"
+            },
+            {
+              "id": "fantasmic",
+              "name": "Fantasmic!",
+              "typ": "Abendshow",
+              "beschreibung": "Abendshow im Amphitheater mit Wasserleinwänden, Feuer, Booten und Mickey gegen die Bösewichte.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/entertainment/hollywood-studios/fantasmic/"
+            }
+          ]
+        },
+        {
+          "id": "animal-kingdom",
+          "name": "Animal Kingdom",
+          "art": "Themenpark",
+          "infoUrl": "https://disneyworld.disney.go.com/destinations/animal-kingdom/",
+          "highlights": [
+            {
+              "id": "flight-of-passage",
+              "name": "Avatar Flight of Passage",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Auf einem Banshee über Pandora fliegen; einer der besten Simulatoren der Welt.",
+              "mindestgroesseCm": 112,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/animal-kingdom/avatar-flight-of-passage/"
+            },
+            {
+              "id": "navi-river",
+              "name": "Na'vi River Journey",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Ruhige Bootsfahrt durch einen leuchtenden Regenwald auf Pandora.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/animal-kingdom/navi-river-journey/"
+            },
+            {
+              "id": "pandora",
+              "name": "Pandora – The World of Avatar",
+              "typ": "Themenbereich",
+              "beschreibung": "Schwebende Berge und Pflanzen, die abends leuchten; am schönsten nach Sonnenuntergang.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/destinations/pandora-valley-of-moara/"
+            },
+            {
+              "id": "everest",
+              "name": "Expedition Everest",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Achterbahn durch den Himalaya mit Rückwärtsfahrt im Dunkeln und Begegnung mit dem Yeti.",
+              "mindestgroesseCm": 112,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/animal-kingdom/expedition-everest/"
+            },
+            {
+              "id": "safari",
+              "name": "Kilimanjaro Safaris",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Echte Safari im offenen Truck: Giraffen, Elefanten, Löwen, Nashörner, ganz ohne Zaun im Blick.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/animal-kingdom/kilimanjaro-safaris/"
+            },
+            {
+              "id": "kali-river",
+              "name": "Kali River Rapids",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Wildwasserfahrt im Rundboot; man wird garantiert nass.",
+              "mindestgroesseCm": 97,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/animal-kingdom/kali-river-rapids/"
+            },
+            {
+              "id": "lion-king",
+              "name": "Festival of the Lion King",
+              "typ": "Show",
+              "beschreibung": "Mitreißende Musical-Show mit Akrobaten, Tänzern und Liedern aus König der Löwen.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/entertainment/animal-kingdom/festival-of-the-lion-king/"
+            },
+            {
+              "id": "nemo",
+              "name": "Finding Nemo: The Big Blue… and Beyond!",
+              "typ": "Show",
+              "beschreibung": "Musical mit großen Puppen von Nemo, Dory und Co.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/entertainment/animal-kingdom/finding-nemo-big-blue-and-beyond/"
+            },
+            {
+              "id": "zootopia",
+              "name": "Zootopia: Better Zoogether!",
+              "typ": "Show",
+              "beschreibung": "Neue 3D-Show mit Judy Hopps und Nick Wilde im Kino unter dem Baum des Lebens.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/animal-kingdom/zootopia-better-zoogether/"
+            },
+            {
+              "id": "tropical-americas",
+              "name": "Tropical Americas: Indiana Jones & Encanto",
+              "typ": "Themenbereich",
+              "beschreibung": "Neuer Bereich mit einem Indiana-Jones-Abenteuer in einem Maya-Tempel und einer Encanto-Fahrt durch Casita.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyparksblog.com/wdw/tropical-americas-encanto-indiana-jones-animal-kingdom/",
+              "hinweis": "Eröffnung für 2027 angekündigt, genaues Datum offen. Möglicherweise im Oktober 2027 noch nicht offen."
+            }
+          ]
+        },
+        {
+          "id": "typhoon-lagoon",
+          "name": "Typhoon Lagoon",
+          "art": "Wasserpark",
+          "infoUrl": "https://disneyworld.disney.go.com/destinations/typhoon-lagoon/",
+          "hinweis": "Disney schließt im Herbst/Winter oft einen der beiden Wasserparks zur Wartung. Ob im Oktober 2027 beide offen sind, ist offen.",
+          "highlights": [
+            {
+              "id": "surf-pool",
+              "name": "Typhoon Lagoon Surf Pool",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Eines der größten Wellenbecken der Welt mit bis zu 2 m hohen Wellen.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/typhoon-lagoon/typhoon-lagoon-surf-pool/"
+            },
+            {
+              "id": "crush-n-gusher",
+              "name": "Crush 'n' Gusher",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Wasser-Achterbahn: Wasserdüsen schieben das Boot auch bergauf.",
+              "mindestgroesseCm": 122,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/typhoon-lagoon/crush-and-gusher/"
+            },
+            {
+              "id": "humunga",
+              "name": "Humunga Kowabunga",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Fast senkrechte Rutsche im Dunkeln, 65 km/h.",
+              "mindestgroesseCm": 122,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/typhoon-lagoon/humunga-kowabunga/"
+            },
+            {
+              "id": "miss-adventure",
+              "name": "Miss Adventure Falls",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Lange Familien-Reifenrutsche für vier Personen, die sich durch die Landschaft schlängelt.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/typhoon-lagoon/miss-adventure-falls/"
+            }
+          ]
+        },
+        {
+          "id": "blizzard-beach",
+          "name": "Blizzard Beach",
+          "art": "Wasserpark",
+          "infoUrl": "https://disneyworld.disney.go.com/destinations/blizzard-beach/",
+          "hinweis": "Disney schließt im Herbst/Winter oft einen der beiden Wasserparks zur Wartung. Ob im Oktober 2027 beide offen sind, ist offen.",
+          "highlights": [
+            {
+              "id": "summit-plummet",
+              "name": "Summit Plummet",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Eine der höchsten und schnellsten freien Fallrutschen der Welt (36 m).",
+              "mindestgroesseCm": 122,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/blizzard-beach/summit-plummet/"
+            },
+            {
+              "id": "slush-gusher",
+              "name": "Slush Gusher",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Steile Buckelrutsche mit kurzen Momenten der Schwerelosigkeit.",
+              "mindestgroesseCm": 122,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/blizzard-beach/slush-gusher/"
+            },
+            {
+              "id": "teamboat",
+              "name": "Teamboat Springs",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Lange Familien-Raftingrutsche, alle zusammen in einem großen Reifen.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/blizzard-beach/teamboat-springs/"
+            },
+            {
+              "id": "cross-country-creek",
+              "name": "Cross Country Creek",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Gemütlicher Fluss zum Treibenlassen im Reifen einmal um den ganzen Park.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://disneyworld.disney.go.com/attractions/blizzard-beach/cross-country-creek/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "universal",
+      "name": "Universal",
+      "ticket": "Universal Orlando All Parks Ticket (14 Tage, Park-to-Park)",
+      "ticketpreis": {
+        "betrag": null,
+        "waehrung": "EUR",
+        "stand": null
+      },
+      "parks": [
+        {
+          "id": "universal-studios",
+          "name": "Universal Studios Florida",
+          "art": "Themenpark",
+          "infoUrl": "https://www.universalorlando.com/web/en/us/theme-parks/universal-studios-florida",
+          "highlights": [
+            {
+              "id": "gringotts",
+              "name": "Harry Potter and the Escape from Gringotts",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Achterbahn mit 3D-Szenen durch die Tresore von Gringotts, inklusive Drache und Bellatrix.",
+              "mindestgroesseCm": 107,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/harry-potter-and-the-escape-from-gringotts"
+            },
+            {
+              "id": "diagon-alley",
+              "name": "The Wizarding World of Harry Potter – Diagon Alley",
+              "typ": "Themenbereich",
+              "beschreibung": "Die Winkelgasse zum Durchlaufen: Ollivanders, Butterbier und ein feuerspeiender Drache auf dem Dach.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/theme-parks/universal-studios-florida/the-wizarding-world-of-harry-potter-diagon-alley"
+            },
+            {
+              "id": "hogwarts-express",
+              "name": "Hogwarts Express",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Zugfahrt von King's Cross nach Hogsmeade (in den anderen Park), mit Szenen vor den Abteilfenstern.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/hogwarts-express-kings-cross-station"
+            },
+            {
+              "id": "mummy",
+              "name": "Revenge of the Mummy",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Achterbahn im Dunkeln durch ein ägyptisches Grab mit Katapultstart, Feuer und Rückwärtsfahrt.",
+              "mindestgroesseCm": 122,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/revenge-of-the-mummy"
+            },
+            {
+              "id": "transformers",
+              "name": "Transformers: The Ride-3D",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "3D-Fahrt mitten in eine Schlacht zwischen Autobots und Decepticons.",
+              "mindestgroesseCm": 102,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/theme-parks/universal-studios-florida",
+              "hinweis": "Die offizielle Einzelseite fehlt aktuell, der Link führt zur Parkseite."
+            },
+            {
+              "id": "mib",
+              "name": "MEN IN BLACK Alien Attack",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Aliens abschießen und Punkte sammeln, mit Drehungen; Familienwettkampf garantiert.",
+              "mindestgroesseCm": 107,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/men-in-black-alien-attack"
+            },
+            {
+              "id": "minion-mayhem",
+              "name": "Despicable Me Minion Mayhem",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "3D-Simulator: in Grus Labor in einen Minion verwandelt werden.",
+              "mindestgroesseCm": 102,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/despicable-me-minion-mayhem"
+            },
+            {
+              "id": "et",
+              "name": "E.T. Adventure",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Klassiker von 1990: auf dem Fahrrad mit E.T. im Korb nach Hause fliegen.",
+              "mindestgroesseCm": 86,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/et-adventure"
+            },
+            {
+              "id": "simpsons",
+              "name": "The Simpsons Ride",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Wilder Simulator vor einer Kuppelleinwand, mit Homer und Bart durch Krustyland.",
+              "mindestgroesseCm": 102,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/the-simpsons-ride"
+            },
+            {
+              "id": "hollywood-drift",
+              "name": "Fast & Furious: Hollywood Drift",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Neue Outdoor-Achterbahn im Fast-&-Furious-Stil, gebaut auf dem Gelände der früheren Rip Ride Rockit.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/theme-parks/universal-studios-florida",
+              "hinweis": "Eröffnung für 2027 angekündigt, genaues Datum und Mindestgröße noch offen."
+            }
+          ]
+        },
+        {
+          "id": "islands-of-adventure",
+          "name": "Islands of Adventure",
+          "art": "Themenpark",
+          "infoUrl": "https://www.universalorlando.com/web/en/us/theme-parks/islands-of-adventure",
+          "highlights": [
+            {
+              "id": "velocicoaster",
+              "name": "Jurassic World VelociCoaster",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Eine der besten Achterbahnen der Welt: zwei Katapultstarts, Überschläge, Raptoren rundherum.",
+              "mindestgroesseCm": 130,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/jurassic-world-velocicoaster"
+            },
+            {
+              "id": "hagrid",
+              "name": "Hagrid's Magical Creatures Motorbike Adventure",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Mit Hagrids Motorrad oder Beiwagen durch den Verbotenen Wald, mit mehreren Starts und einem Fall.",
+              "mindestgroesseCm": 122,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/hagrids-magical-creatures-motorbike-adventure"
+            },
+            {
+              "id": "forbidden-journey",
+              "name": "Harry Potter and the Forbidden Journey",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Fahrt durch Schloss Hogwarts mit Quidditch, Dementoren und Drachen; Warteschlange durch das Schloss.",
+              "mindestgroesseCm": 122,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/harry-potter-and-the-forbidden-journey"
+            },
+            {
+              "id": "hogsmeade",
+              "name": "The Wizarding World of Harry Potter – Hogsmeade",
+              "typ": "Themenbereich",
+              "beschreibung": "Verschneites Zaubererdorf vor Schloss Hogwarts, mit Honigtopf, Drei Besen und abends Lichtshow am Schloss.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/theme-parks/islands-of-adventure/the-wizarding-world-of-harry-potter-hogsmeade"
+            },
+            {
+              "id": "hulk",
+              "name": "The Incredible Hulk Coaster",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Grüne Achterbahn mit Katapultstart aus einem Tunnel und sieben Überschlägen.",
+              "mindestgroesseCm": 137,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/the-incredible-hulk-coaster"
+            },
+            {
+              "id": "spider-man",
+              "name": "The Amazing Adventures of Spider-Man",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "3D-Klassiker: mit Spider-Man durch New York gegen die Superschurken.",
+              "mindestgroesseCm": 102,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/the-amazing-adventures-of-spider-man"
+            },
+            {
+              "id": "kong",
+              "name": "Skull Island: Reign of Kong",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Expedition im Geländewagen über Skull Island, bis King Kong auftaucht.",
+              "mindestgroesseCm": 91,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/skull-island-reign-of-kong"
+            },
+            {
+              "id": "jp-river",
+              "name": "Jurassic Park River Adventure",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Bootsfahrt durch den Jurassic Park mit T-Rex und 26 m Abfahrt; man wird nass.",
+              "mindestgroesseCm": 107,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/jurassic-park-river-adventure"
+            },
+            {
+              "id": "doctor-doom",
+              "name": "Doctor Doom's Fearfall",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Freifallturm, der einen 60 m in die Höhe schießt.",
+              "mindestgroesseCm": 132,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/doctor-dooms-fearfall"
+            },
+            {
+              "id": "popeye",
+              "name": "Popeye & Bluto's Bilge-Rat Barges",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Wildwasser im Rundboot; hier wird man nicht nass, sondern klatschnass.",
+              "mindestgroesseCm": 107,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/popeye-and-blutos-bilge-rat-barges"
+            }
+          ]
+        },
+        {
+          "id": "epic-universe",
+          "name": "Epic Universe",
+          "art": "Themenpark",
+          "infoUrl": "https://www.universalorlando.com/web/en/us/theme-parks/epic-universe",
+          "highlights": [
+            {
+              "id": "ministry",
+              "name": "Harry Potter and the Battle at the Ministry",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Durch das Zaubereiministerium im Paris der 1920er: Duell mit Umbridge, Fahrt in einem Aufzug, der in alle Richtungen fährt.",
+              "mindestgroesseCm": 102,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/harry-potter-and-the-battle-at-the-ministry"
+            },
+            {
+              "id": "super-nintendo-world",
+              "name": "Super Nintendo World",
+              "typ": "Themenbereich",
+              "beschreibung": "Begehbare Mario-Welt mit Power-Up-Band: Blöcke boxen, Münzen sammeln, Bowser Jr. herausfordern.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/epic-universe/worlds/super-nintendo-world"
+            },
+            {
+              "id": "mario-kart",
+              "name": "Mario Kart: Bowser's Challenge",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Mario Kart in echt: mit AR-Brille Panzer werfen und gegen Team Bowser fahren.",
+              "mindestgroesseCm": 102,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/mario-kart-bowsers-challenge"
+            },
+            {
+              "id": "mine-cart",
+              "name": "Mine-Cart Madness",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Familienachterbahn mit Donkey Kong, bei der die Lore scheinbar über Lücken in den Schienen springt.",
+              "mindestgroesseCm": 91,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/mine-cart-madness"
+            },
+            {
+              "id": "stardust-racers",
+              "name": "Stardust Racers",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Doppelachterbahn, deren zwei Züge gegeneinander rasen, bis zu 100 km/h.",
+              "mindestgroesseCm": 122,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/stardust-racers"
+            },
+            {
+              "id": "wing-gliders",
+              "name": "Hiccup's Wing Gliders",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Familienachterbahn mit Katapultstart über die Insel Berk aus Drachenzähmen leicht gemacht.",
+              "mindestgroesseCm": 102,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/hiccups-wing-gliders"
+            },
+            {
+              "id": "untrainable-dragon",
+              "name": "The Untrainable Dragon",
+              "typ": "Show",
+              "beschreibung": "Bühnenshow mit lebensgroßem Drachen Ohnezahn und Akrobatik.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/shows/the-untrainable-dragon"
+            },
+            {
+              "id": "monsters-unchained",
+              "name": "Monsters Unchained: The Frankenstein Experiment",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Gruselige Fahrt im Roboterarm durch Frankensteins Schloss, mit Dracula und Co.",
+              "mindestgroesseCm": 122,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/monsters-unchained-the-frankenstein-experiment"
+            },
+            {
+              "id": "werewolf",
+              "name": "Curse of the Werewolf",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Achterbahn mit sich drehenden Wagen durch ein Dorf, in dem der Werwolf umgeht.",
+              "mindestgroesseCm": 102,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/curse-of-the-werewolf"
+            },
+            {
+              "id": "celestial-goodnight",
+              "name": "Universal Celestial Goodnight",
+              "typ": "Abendshow",
+              "beschreibung": "Nächtliches Spektakel mit Fontänen, Lichtern und Feuerwerk am Cosmos-Brunnen, mit Musik aus allen Welten des Parks.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/theme-parks/epic-universe"
+            }
+          ]
+        },
+        {
+          "id": "volcano-bay",
+          "name": "Volcano Bay",
+          "art": "Wasserpark",
+          "infoUrl": "https://www.universalorlando.com/web/en/us/theme-parks/volcano-bay",
+          "highlights": [
+            {
+              "id": "krakatau",
+              "name": "Krakatau Aqua Coaster",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Wasser-Achterbahn im Kanu mitten durch den Vulkan.",
+              "mindestgroesseCm": 107,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/krakatau-aqua-coaster"
+            },
+            {
+              "id": "kookiri",
+              "name": "Ko'okiri Body Plunge",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Durch eine Falltür fast senkrecht 38 m durch den Vulkan nach unten.",
+              "mindestgroesseCm": 122,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/kookiri-body-plunge"
+            },
+            {
+              "id": "honu",
+              "name": "Honu ika Moana",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Zwei Mehrpersonen-Reifenrutschen (Honu ab 122 cm, Ika Moana ab 107 cm) mit großen Wellen bis fast in die Senkrechte.",
+              "mindestgroesseCm": 107,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/honu"
+            },
+            {
+              "id": "waturi",
+              "name": "Waturi Beach",
+              "typ": "Fahrgeschäft",
+              "beschreibung": "Wellenbecken direkt am Fuß des Vulkans.",
+              "mindestgroesseCm": null,
+              "infoUrl": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/waturi-beach"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "personen": [
+    "Papa",
+    "Mama",
+    "Resel",
+    "Jonny"
+  ]
+}
