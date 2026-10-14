@@ -22,8 +22,7 @@ Die Blätter „Bewertungen“ und „Abschluss“ legt das Script beim ersten A
 
 ## 2. GitHub Pages
 
-1. Ein GitHub-Konto anlegen (falls noch nicht vorhanden) und mir den Benutzernamen nennen.
-2. Ich lege das Repository an und schalte GitHub Pages ein. Die Seite ist dann unter `https://<benutzername>.github.io/orlando2027/` erreichbar.
+Erledigt: Das Repository ist [stkoch84/orlando2027](https://github.com/stkoch84/orlando2027), die Seite liegt unter <https://stkoch84.github.io/orlando2027/>. Jeder Push auf `main` aktualisiert sie nach etwa einer Minute.
 
 Hinweis: Die Seite ist für jeden mit dem Link erreichbar. Die Abstimmung ist verdeckt, aber nicht geheim (siehe [ADR 0001](docs/adr/0001-github-pages-und-google-tabelle.md)).
 
